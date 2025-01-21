@@ -1,0 +1,36 @@
+Work Order ID,Issue,Action,Priority,Status,Due Date,Asset ID
+7289f716,Wheel wobbling during rotation,Balanced wheels and tightened loose wheel nuts.,High,Completed,2025-02-16,db7211b7
+1b5c1c7c,Engine power output below expected performance,Replaced clogged air filter and tuned the engine for optimal performance.,Low,In Progress,2025-01-28,3e877a27
+b9e7e8ba,Wheel lug nuts loose on rear axle,Tightened all lug nuts to the specified torque.,Medium,Completed,2025-02-02,d1981bfc
+51d16bcd,Engine power output below expected performance,Replaced clogged air filter and tuned the engine for optimal performance.,Low,Completed,2025-02-15,a0b3f730
+91034218,Grinding noise from transmission during gear shift,,Medium,In Progress,2025-02-17,321ba4ff
+b6beec37,Wheel hub assembly rusted and corroded,Replaced corroded wheel hub assembly with new parts.,Medium,Open,2025-02-10,ad5fee63
+fe057364,Engine vibration excessive at idle speed,Replaced faulty engine mounts and balanced engine components.,Low,In Progress,2025-01-31,1bc98e69
+300f1148,Engine fan belt slipping during operation,,Low,In Progress,2025-02-06,b6c8de42
+98842713,Bearing overheating in main shaft assembly,,High,Completed,2025-02-18,da5fb27b
+6abaec0b,Bearing overheating in main shaft assembly,,Medium,Completed,2025-01-29,bb0666ca
+b7b48eb7,Transmission control module fault detected,,High,Completed,2025-02-13,9eff871c
+8f7ada58,Bearing play excessive in steering column,Tightened and adjusted bearing preload in steering column.,Low,Completed,2025-02-13,0722dfd2
+3ba7fa83,Engine coolant temperature sensor malfunctioning,Replaced faulty temperature sensor and tested cooling system.,Low,Open,2025-02-01,4a5ac4aa
+e95c6584,Bearing failure causing increased vibration,Replaced failed bearings and balanced the assembly.,High,Completed,2025-01-23,96e1d43b
+628f0dba,Cracked wheel rim identified during inspection,,High,In Progress,2025-02-09,afa0137a
+9cc06eba,Noisy transmission when climbing gradients,Adjusted transmission gears and replaced damaged bearings.,Medium,Open,2025-02-06,9eff871c
+2092eea2,Cracked wheel rim identified during inspection,,High,Open,2025-02-12,c75a59e0
+184dc4d8,Wheel hub assembly rusted and corroded,Replaced corroded wheel hub assembly with new parts.,High,In Progress,2025-02-15,e80a1cc8
+8e9e1025,Bearing seal damaged and leaking grease,Replaced damaged seal and repacked bearing with grease.,Low,In Progress,2025-02-15,c3c620e3
+9bcdae18,Wheel hub assembly rusted and corroded,Replaced corroded wheel hub assembly with new parts.,Low,Open,2025-01-21,53625c13
+2baa9536,Deformed wheel flange observed during inspection,Replaced deformed flange and reassembled wheel hub.,High,Completed,2025-01-21,246419cb
+88404a38,Engine stalling during idle,,High,In Progress,2025-02-08,ed87d5ee
+b167583c,Grinding noise from transmission during gear shift,,High,In Progress,2025-01-28,fd0415a7
+4b9a0b79,Bearing failure causing increased vibration,Replaced failed bearings and balanced the assembly.,Medium,Open,2025-01-21,12cf76b0
+574738cb,Gear slipping in manual transmission,,Medium,Open,2025-01-31,40ca0683
+ad388a9d,Bearing housing cracked in gear assembly,,Low,In Progress,2025-02-18,10a42a38
+9ac7c09f,Transmission shuddering during acceleration,,Medium,Open,2025-01-28,bef927a7
+7806a0e8,Engine knocking sound during acceleration,,Low,In Progress,2025-01-23,a0b3f730
+6fffb981,Cracked wheel rim identified during inspection,,Medium,In Progress,2025-02-11,9c899a42
+4d47a432,Transmission overheating after extended use,Installed additional cooling system and replaced transmission fluid.,High,Completed,2025-02-03,95a07e5c
+4e72ef0b,Bearing wear detected in front wheel hub,,High,In Progress,2025-02-07,532bafa3
+8f58d431,Transmission fluid leaking from casing,,Low,Open,2025-02-08,302800d2
+c7458303,Transmission fluid leaking from casing,,High,In Progress,2025-01-20,e6c44d7b
+cfa2d1bb,Engine emitting excessive smoke during startup,,High,Open,2025-01-25,ed87d5ee
+cc79e732,Bearing seal damaged and leaking grease,Replaced damaged seal and repacked bearing with grease.,Low,Completed,2025-02-13,e1c647d4
